@@ -9,7 +9,7 @@
   // Cloudflare Turnstile site key. Empty = no Turnstile, and nothing is loaded from Cloudflare.
   const TURNSTILE_SITEKEY = "";
 
-  const TABS = ["zear", "hadal", "ohafh", "gmyy", "ouro", "moon", "odin", "about"];
+  const TABS = ["zear", "ohafh", "odin", "about"];
   // Colour of the wipe when switching to a tab. Foil for Yoghurt, ochre for About.
   // Moon has its own dither dissolve instead (ditherWipe).
   const WIPE = {
